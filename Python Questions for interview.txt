@@ -1,0 +1,63 @@
+Mostly Asked:
+
+what is a decorator in python. explain it with example.
+what is the difference between a dict comprehension, dict comprehension and a generator?
+what is the difference between a list and a tuple?
+how is memory managed in python?
+what is the difference between a generator and an iterator?
+what is __init__ in python?
+what is the difference between a library and a module in python?
+Difference between range and xrange in python?
+Whai is generator? Explain it with example.
+What are in-build data types in python?
+
+Commonly asked questions
+
+What is ternary operators in python?
+What is inheritance? How it achieved in python?
+What is global and local variables in python?
+Explain Break, Continue, and Pass keywords in python?
+What is self keywords in python?
+What is the difference between pickling and unpickling?
+Explain functions of list, tuple, set and dict?
+What is python iterator?
+Explain type conversion in python. [int(), float(), str(), oct()]
+What is difference between *args and **Kwargs? Explain in detail.
+What is the purpose of "open" and "with" statement in python?
+Explain different ways to read and write a file in python?
+What is PythonPath?
+How Exception is handling in python?[try, except, finally, else]
+What is the difference between Python 2.0 and Python 3.0?
+What is pip in python?
+Where is python used?
+How to use "F" string and format or replacement operator in python?
+What is the difference between abstraction and encapsulation?
+How to get the list of all the Keys in a dictionary?
+
+
+Tricky questions
+
+Does python support multiple inheritance? If yes, explain.
+How to initialize empty list, empty set, empty tuple, and empty dictionary without using their actual name?
+What is the difference between .py and .pyc in python?
+How slicing work in string manipulation in python?{ [::-1] }
+How can we concatenate two tuple?
+What is the diffrenec between python array and python list?
+What is the difference between _a, __a, and __a__ in python?
+How to read Multiple values from a single input? [split()]
+How to copy and delete a dictionary? [imp]
+What is the difference between Anonymous and Lambda function?
+
+Advanced Question
+How to achieve multi-processing and multi-threading in python?
+What is GIL (Global Interpretor Lock)?
+How class and object are created in python?
+Explain recursion and use it to reverse a list.
+Explain namespace and it's types in python?
+What are unit tests in python?
+How to use MAP, FILTER, and REDUCE in python?
+How an object is copied in python?
+What is monkey paching in python?
+What is the difference between shallow copy and deep copy?
+What is operator overloading and dunder method?
+Explain or WAP(Write a program) to display a particular patteren.
